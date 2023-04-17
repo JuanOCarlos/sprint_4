@@ -1,0 +1,5 @@
+O que é o padrão REST?
+REST(Representational State Transfer) é um conjunto de arquitetura de software para sistemas
+baseado na web. Ele utiliza os métodos HTTP para manipular recursos ou informações
+de um servidor e usa os conceitos e representações para permitir a comunicação entre 
+diferentes sistemas

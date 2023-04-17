@@ -1,0 +1,2 @@
+essa linha do codigo permite que toda vez que executar o metodo GET no caminho local host (número do local host)
+cai nesse metodo.

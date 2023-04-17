@@ -1,0 +1,2 @@
+Dizemos que uma API é REST Full quando?
+quando segue os principios da arquitetura REST, que incluem uma interface uniforme, identicação de recursos, manipulação de recursos através de representações.

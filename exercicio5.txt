@@ -1,0 +1,8 @@
+Explique o que são REQUEST e RESPONSE?
+
+REQUEST é a menssagem enviada por um cliente (como um navegador da web) para solicitar
+algo a um servidor (como uma página da web).
+
+RESPONSE é a menssagem enviada pelo servidor em resposta a uma solicitação do cliente,
+tambem inclui informações como código de status HTTP (por exemplo, 200 para "OK" ou
+404 para "Not Found").

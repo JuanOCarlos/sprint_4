@@ -1,0 +1,4 @@
+Qual é a função do arquivo pom.xml, criado automaticamente junto com um projeto Spring Boot?
+
+conter informações sobre o projeto,suas dependências e outras configurações relacionadas ao build
+e gerenciamento de dependências.

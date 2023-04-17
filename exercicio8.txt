@@ -1,0 +1,5 @@
+1- O método form(X)
+2- O Método listarUsuario()
+3- O Método alterarUsuario()
+4- o Método listarUsuarioUrl()
+5- Será apresentado um erro()

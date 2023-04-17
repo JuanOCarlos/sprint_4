@@ -1,0 +1,3 @@
+O que é uma API?
+API é uma interface que permite que varios sistemas de software se comuniquem entre 
+eles trocando informações e executando tarefas de forma integrada.
